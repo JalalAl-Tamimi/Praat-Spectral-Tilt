@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.673197278911565 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "stimulus" 
+        xmin = 0 
+        xmax = 5.673197278911565 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.895683597374841 
+            text = "" 
+        intervals [2]:
+            xmin = 2.895683597374841 
+            xmax = 3.590421159709144 
+            text = "word" 
+        intervals [3]:
+            xmin = 3.590421159709144 
+            xmax = 3.9099146045068793 
+            text = "" 
+        intervals [4]:
+            xmin = 3.9099146045068793 
+            xmax = 4.254063009478789 
+            text = "syllable" 
+        intervals [5]:
+            xmin = 4.254063009478789 
+            xmax = 4.758172161980797 
+            text = "" 
+        intervals [6]:
+            xmin = 4.758172161980797 
+            xmax = 4.970065624225692 
+            text = "isolation" 
+        intervals [7]:
+            xmin = 4.970065624225692 
+            xmax = 5.673197278911565 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syllabe	" 
+        xmin = 0 
+        xmax = 5.673197278911565 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.212361617073158 
+            text = "" 
+        intervals [2]:
+            xmin = 3.212361617073158 
+            xmax = 3.5225545285997404 
+            text = "a:" 
+        intervals [3]:
+            xmin = 3.5225545285997404 
+            xmax = 4.036255990466013 
+            text = "" 
+        intervals [4]:
+            xmin = 4.036255990466013 
+            xmax = 4.254063009478789 
+            text = "a:" 
+        intervals [5]:
+            xmin = 4.254063009478789 
+            xmax = 4.781904277285457 
+            text = "" 
+        intervals [6]:
+            xmin = 4.781904277285457 
+            xmax = 4.927713156099969 
+            text = "a:" 
+        intervals [7]:
+            xmin = 4.927713156099969 
+            xmax = 5.673197278911565 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "voyelle" 
+        xmin = 0 
+        xmax = 5.673197278911565 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.2196552995810417 
+            text = "" 
+        intervals [2]:
+            xmin = 3.2196552995810417 
+            xmax = 3.5225545285997404 
+            text = "a:" 
+        intervals [3]:
+            xmin = 3.5225545285997404 
+            xmax = 4.043549672973897 
+            text = "" 
+        intervals [4]:
+            xmin = 4.043549672973897 
+            xmax = 4.254063009478789 
+            text = "a:" 
+        intervals [5]:
+            xmin = 4.254063009478789 
+            xmax = 4.781904277285457 
+            text = "" 
+        intervals [6]:
+            xmin = 4.781904277285457 
+            xmax = 4.927713156099969 
+            text = "a:" 
+        intervals [7]:
+            xmin = 4.927713156099969 
+            xmax = 5.673197278911565 
+            text = "" 
