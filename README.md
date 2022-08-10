@@ -6,7 +6,7 @@ This repo contains a modified version of the Praat script used to compute the va
 2. Bandwidth frequencies 1 to 3 (in Hz) in addition to those obtained via the Hawks and Miller formula, at onset and midpoint
 3. Intensity, at onset and midpoint
 4. F0, at onset and midpoint
-5. Harmonic differences: H1*-H2*, H1*-A1*, H1*-A2*, H1*-A3*, A1*-A2*, A1*-A3*, and A2*-A3* at both onset and offset. These are the normalised versions. The non-normalised versions are available as well
+5. Spectral-Tilt via harmonic differences: H1*-H2*, H1*-A1*, H1*-A2*, H1*-A3*, A1*-A2*, A1*-A3*, and A2*-A3* at both onset and offset. These are the normalised versions. The non-normalised versions are available as well
 6. The actual spectra saved into a new folder
 7. images (in png) of the spectrogram and formants overlayed; TextGrid with segmentation, the spectrum with LPC smoothing overlayed, and the readings for all of the formants (F1, F2, F3), harmonics (H1, H2, A1, A2 and A3) and the location of the measurement. On the top of the figure, you can find readings for F1, F2 and F3 in addition to A1, A2 and A3.
 
