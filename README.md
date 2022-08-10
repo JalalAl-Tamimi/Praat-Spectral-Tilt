@@ -17,6 +17,6 @@ Get in touch in case of any difficulties!
 If using this script, make sure to cite both the repo and the paper:
 
 Al-Tamimi, J. (2017). Revisiting acoustic correlates of pharyngealization in Jordanian and Moroccan Arabic: Implications for formal representations. Laboratory
-Phonology: Journal of the Association for Laboratory Phonology, 8(1), 1–40. https://doi.org/10.5334/labphon.19
+Phonology: Journal of the Association for Laboratory Phonology, 8(1), 1–40. [https://doi.org/10.5334/labphon.19](https://doi.org/10.5334/labphon.19)
 
 Cheers
