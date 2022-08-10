@@ -19,4 +19,9 @@ If using this script, make sure to cite both the repo and the paper:
 Al-Tamimi, J. (2017). Revisiting acoustic correlates of pharyngealization in Jordanian and Moroccan Arabic: Implications for formal representations. Laboratory
 Phonology: Journal of the Association for Laboratory Phonology, 8(1), 1–40. [https://doi.org/10.5334/labphon.19](https://doi.org/10.5334/labphon.19)
 
+You can also cite the following papers that used a slightly modified version of the script:
+a. Al-Tamimi, J., & Khattab, G. (2018). Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate stops. Journal of Phonetics, Invited manuscript for the special issue of Journal of Phonetics, “Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages” (eds., T. Cho, G. Docherty & D. Whalen), 71, 306–325. [https://doi.org/10.1016/j.wocn.2018.09.010](https://doi.org/10.1016/j.wocn.2018.09.010)
+b. Khattab, G., Al-Tamimi, J., & Alsiraih, W. (2018). Nasalisation in the production of Iraqi Arabic pharyngeals. Phonetica, 75(4), 310–348. [https://doi.org/10.1159/000487806](https://doi.org/10.1159/000487806) 
+c. Al-Tamimi, J., & Khattab, G. (2015). Acoustic cue weighting in the singleton vs geminate contrast in Lebanese Arabic: The case of fricative consonants. The Journal of the Acoustical Society of America, 138(1), 344–360. [https://doi.org/10.1121/1.4922514](https://doi.org/10.1121/1.4922514)
+
 Cheers
