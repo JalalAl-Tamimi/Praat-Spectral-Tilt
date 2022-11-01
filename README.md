@@ -1,5 +1,7 @@
 # Praat - Spectral Tilt
 
+To cite, use: [![DOI](https://zenodo.org/badge/523409788.svg)](https://zenodo.org/badge/latestdoi/523409788)
+
 This repo contains a modified version of the Praat script used to compute the various metrics reported in Al-Tamimi (2017), including:
 
 1. Formant frequencies 1 to 3 (in Hz), at onset and midpoint
