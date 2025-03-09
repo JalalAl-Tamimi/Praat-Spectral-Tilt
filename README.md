@@ -2,7 +2,14 @@
 
 To cite, use: [![DOI](https://zenodo.org/badge/523409788.svg)](https://zenodo.org/badge/latestdoi/523409788)
 
-This repo contains a modified version of the Praat script used to compute the various metrics reported in Al-Tamimi (2017), including:
+This repo contains a modified version of the Praat script used to compute the various metrics reported in Al-Tamimi (2017).
+
+There are two version of this script:
+
+The script "scriptPharyFullV3.praat" is to be used if you have a Praat version 6.3.22 or below.
+The script "scriptPharyFullV4.praat" is to be used for any version of Praat above 6.4. These new versions use the updated Praat algorithm for detection of pitch
+
+This script provides the following acoustic measures:
 
 1. Formant frequencies 1 to 3 (in Hz), at onset and midpoint
 2. Bandwidth frequencies 1 to 3 (in Hz) in addition to those obtained via the Hawks and Miller formula, at onset and midpoint
@@ -11,6 +18,7 @@ This repo contains a modified version of the Praat script used to compute the va
 5. Spectral-Tilt via harmonic differences: H1*-H2*, H1*-A1*, H1*-A2*, H1*-A3*, A1*-A2*, A1*-A3*, and A2*-A3* at both onset and offset. These are the normalised versions. The non-normalised versions are available as well
 6. The actual spectra saved into a new folder
 7. images (in png) of the spectrogram and formants overlayed; TextGrid with segmentation, the spectrum with LPC smoothing overlayed, and the readings for all of the formants (F1, F2, F3), harmonics (H1, H2, A1, A2 and A3) and the location of the measurement. On the top of the figure, you can find readings for F1, F2 and F3 in addition to A1, A2 and A3.
+
 
 Make sure to read the paper to know how these metrics were computed. It is essential to do manual checking on all of the harmonic and formant frequencies. The png images are a first step to do that, and if you need to manually correct anything, simply use the spectrum.
 
