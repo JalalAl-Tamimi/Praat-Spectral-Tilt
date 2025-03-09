@@ -1,6 +1,8 @@
+## Version 1: 18 July 2022
+
 beginPause: "computations pharyngealisation"
 comment: "Where are your sound files and TextGrids?"
-sentence: "directory1", "D:\ArticlesResearch\GitHub_scripts\Praat\pharyFULL"
+sentence: "directory1", ""
 comment: "Results File"
 sentence: "output1", "Results"
 clicked = endPause: "OK", 1
