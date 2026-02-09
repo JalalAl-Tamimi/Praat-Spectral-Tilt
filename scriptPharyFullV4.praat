@@ -19,7 +19,7 @@ createDirectory: "spectra"
 createDirectory: "images"
 
 
-Create Strings as file list: "fileList", "'directory1$'\*.wav"
+Create Strings as file list: "fileList", "'directory1$'/*.wav"
 nbFiles = Get number of strings
 
 appendFileLine: "'output1$'.xls", "File name", tab$, "language", tab$, "speaker", tab$, 
